@@ -1,0 +1,12 @@
+###########################################
+bare react app for forking
+
+if running from the fresh react image, these two install steps are already done
+npm install --save-dev parcel
+npm install react react-dom
+
+start sever with:
+  npx parcel {-p 1236 or whatever port you set up in docker}
+  or
+  npx parcel src/index.html {-p 1236 or whatever port you set up in docker}
+  (if you haven't added that to package.json)
