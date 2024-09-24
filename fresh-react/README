@@ -10,3 +10,10 @@ start sever with:
   or
   npx parcel src/index.html {-p 1236 or whatever port you set up in docker}
   (if you haven't added that to package.json)
+
+
+
+this is really useful:
+  npm i -g new-component
+
+(it's Josh's instant dir and boilerplate for new components)
