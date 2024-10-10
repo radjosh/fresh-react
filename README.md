@@ -2,6 +2,6 @@ boilerplate for react app
 
 usage:
 
-git clone git@github.com:radjosh/fresh-react.git ./app
+git clone git@github.com:radjosh/fresh-react.git ./src
 
-rm -rf ./app/.git
+rm -rf ./src/.git
